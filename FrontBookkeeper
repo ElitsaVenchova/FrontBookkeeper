@@ -1,0 +1,5 @@
+package com.su_sofia;
+
+public interface FrontBookkeeper {
+	public String updateFront(String[] news);  
+}
